@@ -116,11 +116,11 @@ resource "aws_instance" "tictactoe_instance" {
               
               cd /home/ubuntu
     
-              git clone https://github.com/pwr-cloudprogramming/a1-KhalidMuzaffar269553.git
+              git clone https://github.com/pwr-cloudprogramming/a10-qmatixx.git
               
               cd /home/ubuntu
     
-              cd a1-KhalidMuzaffar269553
+              cd a10-qmatixx
     
               docker-compose up -d
   EOF
