@@ -13,14 +13,14 @@ VPC, podsieci, tablice routingu, security gropus, instancja ec2 oraz Cogntio.
 Screenshots of configured AWS services. Screenshots of your application running.
 
 EC2
-![EC2](img/ec2.png)
+![EC2](images/ec2.png)
 Kółko i krzyżyk
-![App running](img/game1.png)
-![App running](img/game2.png)
+![App running](images/game1.png)
+![App running](images/game2.png)
 Cognito
-![Cognito](img/cognito.png)
+![Cognito](images/cognito.png)
 Congig.js
-![Config.js](img/config.png)
+![Config.js](images/config.png)
 
 ## Reflections
 
