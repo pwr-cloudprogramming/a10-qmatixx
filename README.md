@@ -7,9 +7,13 @@
 ## Environment architecture
 
 VPC działające jako izolowana prywatna sieć dla infrastruktury.
+
 Instancja EC2 stworzona za pomocą Terraform w podsieci VPC.
+
 Docker containers uruchomione za pomocą 'docker compose up' na instancji EC2 hostowały grę.
+
 Security groups skonfigurowane tak, aby umożliwić otworzenie adresu w przeglądarce internetowej.
+
 User pool w AWS Cognito, która przechowuje i zarządza informacjami o uzytkownikach. Skonfigurowana tak, aby weryfikować użytkowników za pomocą maila oraz egzekwować silną politykę haseł.
 
 ## Preview
