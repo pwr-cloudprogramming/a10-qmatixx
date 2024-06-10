@@ -18,8 +18,6 @@ User pool w AWS Cognito, która przechowuje i zarządza informacjami o uzytkowni
 
 ## Preview
 
-Screenshots of configured AWS services. Screenshots of your application running.
-
 EC2
 ![EC2](images/ec2.png)
 Kółko i krzyżyk
